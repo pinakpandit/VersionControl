@@ -1,1 +1,3 @@
 This is a file named Hello World.
+
+This is the same file used to create a merge conflict.
